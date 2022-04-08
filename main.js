@@ -3,7 +3,7 @@ objects = [];
 
 function setup(){
     canvas = createCanvas(300,290);
-    canvas.position(480,250);
+    canvas.position(700,250);
     video = createCapture(VIDEO);
     video.size(300,290);
     video.hide();
